@@ -2,6 +2,8 @@ I'm a Progrunner—a programmer by passion and a runner by determination. By day
 
 Currently, I work at Firefly Studios, where I contribute to the development of Stronghold games. As a long-time fan of RTS games, getting to work on a franchise that blends castle-building, strategy, and intense battles is incredibly exciting. It’s a perfect match for my passion—both as a developer and a gamer—where I get to combine my technical skills with my love for real-time strategy. Building and refining mechanics that players around the world will enjoy is both a challenge and a dream come true.
 
+In addition to my work at Firefly Studios, I also maintain a GitHub where I showcase my side projects, most of which are centered around game development. I love experimenting with new ideas, building game mechanics, and refining systems that push my skills further. Whether it’s prototyping gameplay features, working on AI behavior, or optimizing performance, my side projects are a playground for creativity and technical growth. Game development is more than just a job for me—it’s a passion that keeps me constantly learning and improving.
+
 <!--
 **MateuszMotylinski/MateuszMotylinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
